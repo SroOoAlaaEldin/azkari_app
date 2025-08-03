@@ -5,11 +5,28 @@ A new Flutter project.
 ## Getting Started
 
 #ًصور من التطبيق
-<img src="screenshot/home.jpg" width="300"/>
-<img src="screenshot/athker.jpg" width="300"/>
-<img src="screenshot/number_pray.jpg" width="300"/>
-<img src="screenshot/wd_pray.jpg" width="300"/>
-<img src="screenshot/swar.jpg" width="300"/>
+
+<p float="left">
+  <img src="screenshots/home.jpg" width="250"/>
+  <img src="screenshots/athker.jpg" width="250"/>
+  <img src="screenshots/number_prays.jpg" width="250"/>
+   <img src="screenshots/swar.jpg" width="250"/>
+    <img src="screenshots/wd_pray.jpg" width="250"/>
+</p>
+
+---
+
+## 🛠️ التقنيات المستخدمة
+- Flutter
+- Dart
+
+---
+
+## 🚀 كيف تبدأ المشروع؟
+```bash
+flutter pub get
+flutter run
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
